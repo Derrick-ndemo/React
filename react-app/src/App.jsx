@@ -32,6 +32,7 @@ function App() {
 
     return (
         <>
+            <h1>Our React App</h1>
             {/* card Component */}
             <Card />
             <Card />
